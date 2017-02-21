@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 跑出結果後會print optimal reward, x, y, 和json檔案，可以用python -m http.server打開index.html結果如附圖
 
-![image](sample.jpg")
+![image](/sample.jpg")
 
 
 ### Execution Options
